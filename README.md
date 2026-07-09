@@ -15,7 +15,6 @@
 🎮 Disfruto los videojuegos y las buenas historias.<br>
 📺 Fan de las series y las películas.<br>
 🎵 Me gusta escuchar música mientras estudio o programo.<br>
-🐱 Amante de los animales, especialmente de los gatos.<br>
 🌌 Me interesa cualquier tema.<br>
 🚀 Mi objetivo es seguir aprendiendo y mejorando cada día.
 </p>
