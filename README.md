@@ -49,16 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blanced4&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanced4&layout=compact&theme=tokyonight" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=blanced4&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
