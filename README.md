@@ -16,7 +16,7 @@
 📺 Fan de las series y las películas.<br>
 🎵 Me gusta escuchar música mientras estudio o programo.<br>
 🌌 Me interesa cualquier tema.<br>
-🚀 Mi objetivo es seguir aprendiendo y mejorando cada día.
+🚀 Mi objetivo es seguir aprendiendo y mejorar.
 </p>
 
 ---
