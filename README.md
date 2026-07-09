@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt" />
+</div>
+
+<div align="center">
   <img height="200" src="https://raw.githubusercontent.com/blanced4/blanced4/main/jacaerys-velaryon-sips-tea.gif" />
 </div>
 
@@ -16,7 +20,7 @@
 
 🐱 Amante de los animales, especialmente de los gatos.
 
-🌌 Me interesa cualquier tema.
+🌌 Me interesa cualquier tema y siempre me gusta aprender algo nuevo.
 
 📚 Actualmente estoy aprendiendo más sobre:
 - Java
@@ -25,16 +29,37 @@
 - Desarrollo web
 - Computación en la nube
 
-🚀 Mi objetivo es seguir aprendiendo.
+🚀 Mi objetivo es seguir aprendiendo y mejorando mis habilidades cada día.
+
+---
+
+## 🌐 Redes Sociales
 
 <div align="center">
 
-<a href="https://instagram.com/edwinfrk98">
+<a href="https://instagram.com/edwinfrk98" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-edwinfrk98-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://hiddennocturne.tumblr.com">
+<a href="https://hiddennocturne.tumblr.com" target="_blank">
   <img src="https://img.shields.io/badge/Tumblr-hiddennocturne-36465D?style=for-the-badge&logo=tumblr&logoColor=white" />
 </a>
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blanced4&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanced4&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=blanced4&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
 </div>
